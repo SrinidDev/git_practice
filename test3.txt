@@ -1,2 +1,1 @@
-test3 1.0
-branch2
+test3 1.0 from branch2
